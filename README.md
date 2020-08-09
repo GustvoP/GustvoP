@@ -2,8 +2,6 @@
 
 ### Sou apaixonado pela programação, tento me atualizar e buscar novos conhecimentos todos os dias.
 
-:briefcase: Estou em busca de emprego.
-
 :seedling: Estou atualmente aprendendo React.js e Node.js.
 
 :computer: Tenho conhecimento nas tecnologias: Java, Javascript, HTM5, CC3 e em Banco de Dados, utilizando o MySQL.
