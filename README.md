@@ -4,7 +4,7 @@
 
 :seedling: Estou atualmente aprendendo React/React Native.
 
-:computer: Tenho conhecimento nas tecnologias: Java, Javascript, Node.js, HTML5, CSS3 e SQL, utilizando o MySQL.
+:computer: Tenho conhecimento nas tecnologias: Java, Javascript, Node.js, HTML5, CSS3, Git e SQL, utilizando o MySQL.
 
 :mortar_board: Tenho formação como Técnico em Informática e atualmente estou cursando Ciências da Computação.
 
