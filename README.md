@@ -2,9 +2,9 @@
 
 ### Sou apaixonado pela programação, tento me atualizar e buscar novos conhecimentos todos os dias.
 
-:seedling: Estou atualmente aprendendo React.js e Node.js.
+:seedling: Estou atualmente aprendendo React/React Native.
 
-:computer: Tenho conhecimento nas tecnologias: Java, Javascript, HTM5, CC3 e em Banco de Dados, utilizando o MySQL.
+:computer: Tenho conhecimento nas tecnologias: Java, Javascript, Node.js, HTM5, CC3 e em Banco de Dados, utilizando o MySQL.
 
 :mortar_board: Tenho formação como Técnico em Informática e atualmente estou cursando Ciências da Computação.
 
